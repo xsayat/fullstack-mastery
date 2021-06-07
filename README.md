@@ -29,7 +29,7 @@ Deadline is set to June 13th 2021
 - [ ] 6. [Github – Type challenges](https://github.com/type-challenges/type-challenges)
 
 ### React
-- [ ] 1. [Docs – React](https://reactjs.org/docs/getting-started.html)
+- [x] 1. [Docs – React](https://reactjs.org/docs/getting-started.html)
 - [ ] 2. [Kent C Dodds – Epic React](https://coursehunter.net/course/epicheskiy-react)
 
 ### Node
