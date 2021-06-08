@@ -23,18 +23,18 @@ Deadline is set to June 13th 2021
 - [x] 1. [Docs – Typescript Handbook](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
 - [x] 2. [Egghead – Up and Running with TypeScript](https://egghead.io/courses/up-and-running-with-typescript)
 - [x] 3. [Egghead – Use Types Effectively in TypeScript](https://egghead.io/courses/use-types-effectively-in-typescript)
-- [x] 4. [Egghead – Async/Await using TypeScript](https://egghead.io/courses/async-await-using-typescript)
-- [x] (Optional) Advanced TS
-- [x] 5. [Egghead – Practical Advanced TypeScript](https://egghead.io/courses/practical-advanced-typescript)
-- [ ] 6. [Github – Type challenges](https://github.com/type-challenges/type-challenges)
+- [ ] (Optional) Advanced TS
+- [x] 4. [Egghead – Practical Advanced TypeScript](https://egghead.io/courses/practical-advanced-typescript)
+- [ ] 5. [Github – Type challenges](https://github.com/type-challenges/type-challenges)
 
 ### React
-- [x] 1. [Docs – React](https://reactjs.org/docs/getting-started.html)
-- [ ] 2. [Kent C Dodds – Epic React](https://coursehunter.net/course/epicheskiy-react)
+- [x] 1. [Docs – Main Concepts](https://reactjs.org/docs/hello-world.html)
+- [ ] 2. [Docs – Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [ ] 3. [Kent C Dodds – Epic React](https://coursehunter.net/course/epicheskiy-react)
 
 ### Node
-- [ ] 1. [Udemy – Node the complete guide](https://coursehunter.net/course/nodejs-polnoe-rukovodstvo-vklyuchaya-mvc-rest-api-graphql)
-- [ ] 2. [Docs – Node](https://nodejs.org/en/docs/)
+- [ ] 1. [Docs – Node](https://nodejs.org/en/docs/)
+- [ ] 2. [Timur Shemsedinov Nodejs Playlist](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZmXEqIIlq2S9-Ibh9b_-rQ)
 - [ ] (Optional) [Ben Awad | Fullstack React GraphQL TypeScript Tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8&t=780s&ab_channel=BenAwadBenAwad%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%BE)
 
 ### Docker
@@ -54,3 +54,16 @@ Deadline is set to June 13th 2021
 - [ ] 5. ORM?
 - [ ] 6. [Geeksforgeeks – Normal Forms in DBMS](https://www.geeksforgeeks.org/normal-forms-in-dbms/)
 - [ ] 7. [Tutorialspoint – Indexing DBMS](https://www.tutorialspoint.com/dbms/dbms_indexing.htm)
+
+### Extra
+
+Deadline for this section is **not** June 13th. Probable deadline is September 1st ;)
+
+- [ ] 1. [Typescript Full Reference](https://reactjs.org/docs/accessibility.html)
+- [ ] 2. [React Advanced Guides](https://reactjs.org/docs/accessibility.html)
+- [ ] 3. [Read through Overreacted Blog](http://overreacted.io/)
+- [ ] 4. [Read through Khalil Stemmer Blog](https://khalilstemmler.com/articles)
+- [ ] 5. [Timur Shemsedinov All Videos](https://www.youtube.com/c/TimurShemsedinov/videos)
+- [ ] 6. [Read DDIA](https://dataintensive.net/) 
+- [ ] 7. [Read Solidbook](https://solidbook.io/) - current progress 105/424
+- [ ] 8. [Testing Javascript](https://testingjavascript.com/)
