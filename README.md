@@ -35,7 +35,7 @@ This repo is created solely for logging purposes (we all know that GitHub green 
 - [ ] (Optional) [Ben Awad | Fullstack React GraphQL TypeScript Tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8&t=780s&ab_channel=BenAwadBenAwad%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%BE)
 
 ### Docker
-- [ ] 1. [What Is Docker? | What Is Docker And How It Works? | Docker Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=rOTqprHv1YE&ab_channel=Simplilearn)
+- [x] 1. [What Is Docker? | What Is Docker And How It Works? | Docker Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=rOTqprHv1YE&ab_channel=Simplilearn)
 - [ ] 2. [Egghead – Docker Fundamentals](https://egghead.io/courses/docker-fundamentals-0cb53b55)
 - [ ] 3. [How to Get Started with Docker | with Node](https://www.youtube.com/watch?v=iqqDU2crIEQ&ab_channel=Docker)
 - [ ] 4. [Docker for Beginners](https://www.youtube.com/watch?v=zJ6WbK9zFpI&ab_channel=KodeKloud)
