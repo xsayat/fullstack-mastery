@@ -36,7 +36,7 @@ This repo is created solely for logging purposes (we all know that GitHub green 
 
 ### Docker
 - [x] 1. [What Is Docker? | What Is Docker And How It Works? | Docker Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=rOTqprHv1YE&ab_channel=Simplilearn)
-- [ ] 2. [Egghead – Docker Fundamentals](https://egghead.io/courses/docker-fundamentals-0cb53b55)
+- [x] 2. [Egghead – Docker Fundamentals](https://egghead.io/courses/docker-fundamentals-0cb53b55)
 - [ ] 3. [How to Get Started with Docker | with Node](https://www.youtube.com/watch?v=iqqDU2crIEQ&ab_channel=Docker)
 - [ ] 4. [Docker for Beginners](https://www.youtube.com/watch?v=zJ6WbK9zFpI&ab_channel=KodeKloud)
 - [ ] 5. [Docs – Docker](https://docs.docker.com/get-started/)
@@ -61,7 +61,7 @@ This repo is created solely for logging purposes (we all know that GitHub green 
 * Dan Abramov (overreacted) blog
 
 #### Books
-* Solidbook, Khalil Stemmler - current progress 294/424
+* Solidbook, Khalil Stemmler - current progress Finished
 * Clean Architecture, Robert Martin
 * TDD by example, Kent Beck (take testingjavascript.com at the same time)
 * DDIA, Martin Kleppmann
