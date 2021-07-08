@@ -37,7 +37,7 @@ This repo is created solely for logging purposes (we all know that GitHub green 
 ### Docker
 - [x] 1. [What Is Docker? | What Is Docker And How It Works? | Docker Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=rOTqprHv1YE&ab_channel=Simplilearn)
 - [x] 2. [Egghead – Docker Fundamentals](https://egghead.io/courses/docker-fundamentals-0cb53b55)
-- [ ] 3. [How to Get Started with Docker | with Node](https://www.youtube.com/watch?v=iqqDU2crIEQ&ab_channel=Docker)
+- [x] 3. [How to Get Started with Docker | with Node](https://www.youtube.com/watch?v=iqqDU2crIEQ&ab_channel=Docker)
 - [ ] 4. [Docker for Beginners](https://www.youtube.com/watch?v=zJ6WbK9zFpI&ab_channel=KodeKloud)
 - [ ] 5. [Docs – Docker](https://docs.docker.com/get-started/)
 - [ ] 6. [Dockerize PostgreSQL](https://docs.docker.com/samples/postgresql_service/)
